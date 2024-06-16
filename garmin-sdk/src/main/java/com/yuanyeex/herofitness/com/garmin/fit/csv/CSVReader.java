@@ -24,7 +24,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.ArrayList;
 
-import com.garmin.fit.*;
 import com.yuanyeex.herofitness.com.garmin.fit.*;
 import com.yuanyeex.herofitness.com.garmin.fit.util.DateTimeConverter;
 import com.yuanyeex.herofitness.com.garmin.fit.util.SemicirclesConverter;

@@ -9,7 +9,6 @@
 
 package com.yuanyeex.herofitness.com.garmin.fit.examples;
 
-import com.garmin.fit.*;
 import com.yuanyeex.herofitness.com.garmin.fit.*;
 
 import java.util.Calendar;

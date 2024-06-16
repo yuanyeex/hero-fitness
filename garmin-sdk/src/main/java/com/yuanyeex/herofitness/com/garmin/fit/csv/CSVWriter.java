@@ -23,8 +23,6 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import com.garmin.fit.*;
-
 public class CSVWriter {
     private final OutputStream outputStream;
     private ByteArrayOutputStream intermediateOutputStream;

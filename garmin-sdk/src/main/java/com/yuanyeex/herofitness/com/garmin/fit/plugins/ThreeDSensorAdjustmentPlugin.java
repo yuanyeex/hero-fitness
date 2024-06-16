@@ -14,7 +14,6 @@ package com.yuanyeex.herofitness.com.garmin.fit.plugins;
 
 import java.util.List;
 
-import com.garmin.fit.*;
 import com.yuanyeex.herofitness.com.garmin.fit.*;
 
 /**

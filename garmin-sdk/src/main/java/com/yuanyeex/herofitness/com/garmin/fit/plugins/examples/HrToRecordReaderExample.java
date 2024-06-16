@@ -8,8 +8,6 @@
 
 package com.yuanyeex.herofitness.com.garmin.fit.plugins.examples;
 
-import com.garmin.fit.*;
-import com.garmin.fit.plugins.*;
 import com.yuanyeex.herofitness.com.garmin.fit.*;
 import com.yuanyeex.herofitness.com.garmin.fit.csv.MesgCSVWriter;
 import com.yuanyeex.herofitness.com.garmin.fit.plugins.HrToRecordMesgBroadcastPlugin;
