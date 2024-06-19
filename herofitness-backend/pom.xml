@@ -18,10 +18,19 @@
     </properties>
     <dependencies>
         <dependency>
+            <groupId>com.yuanyeex.herofitness</groupId>
+            <artifactId>garmin-sdk</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>RELEASE</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
         </dependency>
     </dependencies>
 

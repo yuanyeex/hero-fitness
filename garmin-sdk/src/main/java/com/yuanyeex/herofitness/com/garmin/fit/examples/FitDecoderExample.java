@@ -32,10 +32,11 @@ public class FitDecoderExample {
             FitDecoder fitDecoder = new FitDecoder();
             FitMessages fitMessages;
 
+            HrToRecordMesgBroadcastPlugin hrToRecordMesgBroadcastPlugin = new HrToRecordMesgBroadcastPlugin();
             if (args.length == 1) {
                 fitMessages = fitDecoder.decode(inputStream);
             } else {
-                fitMessages = fitDecoder.decode(inputStream, new HrToRecordMesgBroadcastPlugin());
+                fitMessages = fitDecoder.decode(inputStream, hrToRecordMesgBroadcastPlugin);
             }
 
             System.out.println("File decoded");
